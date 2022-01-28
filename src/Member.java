@@ -9,4 +9,11 @@ public class Member {
 	void setName(String name) {
 		this.name = name;
 	}
+	
+	int getId(int id) {
+		return id;
+	}
+	String getName(String name) {
+		return name;
+	}
 }
